@@ -13,7 +13,6 @@ Your first task is to visualize an earthquake dataset. Complete the following st
     - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 
 ![alt text](Images/3-Data.jpg)
-
     - When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 
 ![alt text](Images/4-JSON.jpg)
