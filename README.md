@@ -26,13 +26,8 @@ This part is completely optional; you can complete this part as a way to challen
 
 The following image is an example screenshot of what you should produce:
 
-5-Advanced
 Perform the following tasks:
-
-Plot the tectonic plates dataset on the map in addition to the earthquakes.
-
-Add other base maps to choose from.
-
-Put each dataset into separate overlays that can be turned on and off independently.
-
-Add layer controls to your map.
+- Plot the tectonic plates dataset on the map in addition to the earthquakes.
+- Add other base maps to choose from.
+- Put each dataset into separate overlays that can be turned on and off independently.
+- Add layer controls to your map.
