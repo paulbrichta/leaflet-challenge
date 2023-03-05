@@ -2,8 +2,6 @@
 Paul Brichta
 
 ## Instructions
-The instructions for this activity are broken into two parts:
-
 ### Part 1: Create the Earthquake Visualization
 
 ![alt text](Leaflet-Part-1/Images/leaflet_earthquake_visualization.png)
