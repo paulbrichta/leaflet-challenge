@@ -5,10 +5,19 @@ Paul Brichta
 The instructions for this activity are broken into two parts:
 
 ### Part 1: Create the Earthquake Visualization
+
+![alt text](Images/2-BasicMap.jpg)
+
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 1. Get your dataset. To do so, follow these steps:
     - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
-    - When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
+
+![alt text](Images/3-Data.jpg)
+
+- When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
+
+
+![alt text](Images/4-JSON.jpg)
 
 2. Import and visualize the data by doing the following:
     - Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
@@ -25,6 +34,8 @@ Plot a second dataset on your map to illustrate the relationship between tectoni
 This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.
 
 The following image is an example screenshot of what you should produce:
+
+![alt text](Images/5-Advanced.jpg)
 
 Perform the following tasks:
 - Plot the tectonic plates dataset on the map in addition to the earthquakes.
